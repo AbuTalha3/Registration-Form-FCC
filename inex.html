@@ -17,12 +17,21 @@
       </fieldset>
       <fieldset>
         <legend>Account type (required)</legend>
-        <label for="personal-account"><input id="personal-account" type="radio" name="account-type" checked /> Personal</label>
+        <label for="personal-account"><input id="personal-account" type="radio" name="account-type" checked/> Personal</label>
         <label for="business-account"><input id="business-account" type="radio" name="account-type" /> Business</label>
       </fieldset>
       <fieldset>
         <label>Upload a profile picture: <input type="file" /></label>
-        
+        <label>Input your age (years): <input type="number" min="13" max="120" /></label>
+        <label>How did you hear about us?
+          <select>
+            <option>(select one)</option>
+            <option>freeCodeCamp News</option>
+            <option>freeCodeCamp YouTube Channel</option>
+            <option>freeCodeCamp Forum</option>
+            <option>Other</option>
+          </select>
+        </label>
       </fieldset>
       <label for="terms-and-conditions">
         <input id="terms-and-conditions" type="checkbox" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a>
