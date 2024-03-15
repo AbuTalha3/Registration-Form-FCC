@@ -58,4 +58,8 @@ input, textarea {
 input[type="submit"] {
   display: block;
   width: 60%;
+  margin: 0 auto;
+  height: 2em;
+  font-size: 1.1rem;
+
 }
