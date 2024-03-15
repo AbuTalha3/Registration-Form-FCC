@@ -42,11 +42,13 @@ select {
   width: 100%;
 }
 
+input, textarea {
+  background-color: #0a0a23;
+  border: 1px solid #0a0a23;
+}
+
 .inline {
   width: unset;
-  margin: 0.5em;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0.5em;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
 }
