@@ -18,6 +18,7 @@ form {
   max-width: 500px;
   min-width: 300px;
   margin: 0 auto;
+  padding-bottom: 2em;
 }
 
 fieldset {
@@ -58,8 +59,22 @@ input, textarea {
 input[type="submit"] {
   display: block;
   width: 60%;
-  margin: 0 auto;
+  margin: 1em auto;
   height: 2em;
   font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
 
+input[type="file"] {
+  padding: 1px 2px;
+}
+
+.inline{
+  display: inline; 
+}
+
+ a {
+  color: #dfdfe2;
 }
