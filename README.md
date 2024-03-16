@@ -36,7 +36,8 @@ responsive-registration-form/
 ├── styles.css        # CSS file for styling the registration form
 ├── script.js         # Optional JavaScript file for form validation and interactivity
 └── README.md         # Project README file
-Contributing
+
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 Fork the repository.
