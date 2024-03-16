@@ -25,7 +25,7 @@ Open the index.html file in your web browser to view and interact with the regis
 
 Customize the form fields, styles, and JavaScript functionality as needed for your project.
 
-File Structure
+# File Structure
 The project structure is organized as follows:
 
 graphql
