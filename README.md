@@ -3,7 +3,7 @@ This project is a responsive registration form created using HTML, CSS, and opti
 
 - Table of Contents
 - Features
-Usage
+- Usage
 File Structure
 Contributing
 License
