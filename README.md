@@ -14,7 +14,8 @@ Responsive design ensures the form looks good and functions well on different de
 Basic form validation is included to ensure required fields are filled before submission.
 Easily customizable styles using CSS to match your preferred UI/UX design.
 Optional JavaScript can be added for additional form validation or interactivity.
-Usage
+
+# Usage
 Clone the repository to your local machine:
 
 bash
