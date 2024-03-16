@@ -46,5 +46,6 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-improvement).
 Create a new Pull Request.
-License
+
+# License
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for personal and commercial purposes. Refer to the LICENSE file for more information.
